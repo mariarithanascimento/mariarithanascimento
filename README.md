@@ -1,6 +1,7 @@
 <h1 align="center">Olá, sou Maria Ritha :wave:</h1>
 <h3 align="center">Aqui você encontra alguns projetos que já trabalhei ou que estão em andamento.</h3>
 
+- :iphone: Tela de login com animações utilizando React Native [APP](https://github.com/mariarithanascimento/tela-login.git)
 - :woman_technologist: Um portifólio responsivo [Portifólio Profissional](https://github.com/mariarithanascimento/portifolio-profissional.git)
 
 - :desktop_computer: Estou cursando atualmente **Sistemas de informação na Estácio**
