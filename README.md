@@ -9,6 +9,7 @@
 
 - :triangular_ruler: [Projeto swaglabsproject utilizando a metodologia Scrum e a plataforma Jira](https://github.com/mariarithanascimento/swaglabsproject.git)
 - :wrench: [Explorando o Rest Assured Para a Automação de Testes de API](https://github.com/mariarithanascimento/api-automation-tests-rest-assured.git)
+- :bookmark: [Abstraindo um Bootcamp Usando Orientação a Objetos em Java](https://github.com/mariarithanascimento/desafio-dio-poo.git)
 - :iphone: [Tela de login com animações utilizando React Native](https://github.com/mariarithanascimento/tela-login.git)
 - :woman_technologist: [Um portifólio responsivo ](https://github.com/mariarithanascimento/portifolio-profissional.git)
 - :flower_playing_cards: [Um Jogo da Memória](https://github.com/mariarithanascimento/jogo-da-memoria.git)
