@@ -3,7 +3,7 @@
 
 - :desktop_computer: Estou cursando atualmente **Sistemas de informação na Estácio**
 - :mortar_board: Formada em **Redes de computadores pelo IFTM-Instituto federal do Triângulo Mineiro**
-- :blue_heart: Analista de Suporte na NTT Data 
+- :blue_heart: **Analista de Suporte na NTT Data**
 - :email: Meu e-mail **maria.ritha.2000@gmail.com**
 
 <h3 align="left">Confira meu Linkedin:</h3>
