@@ -1,9 +1,10 @@
-<h1 align="center">Olá, sou Maria Ritha :wave:</h1>
+<h1 align="center">Olá, sou Maria Ritha :blush: </h1>
 <h3 align="center">Aqui você encontra alguns projetos que já trabalhei ou que estão em andamento.</h3>
 
 - :desktop_computer: Estou cursando atualmente **Sistemas de informação na Estácio**
-- 🎓Formada em **Redes de computadores pelo IFTM-Instituto federal do Triângulo Mineiro**
-- 📫 Meu e-mail **maria.ritha.2000@gmail.com**
+- :mortar_board: Formada em **Redes de computadores pelo IFTM-Instituto federal do Triângulo Mineiro**
+- :blue_heart: Analista de Suporte na NTT Data 
+- :email: Meu e-mail **maria.ritha.2000@gmail.com**
 
 <h3 align="left">Confira meu Linkedin:</h3>
 <p align="left">
