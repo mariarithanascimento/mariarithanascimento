@@ -4,7 +4,7 @@
 - :desktop_computer: Atualmente estou cursando **Sistemas de informação na Estácio**
 - :mortar_board: Formada em **Redes de computadores pelo IFTM-Instituto federal do Triângulo Mineiro**
 - :blue_heart: **Analista de Suporte na NTT Data**
-- :thought_balloon: Curiosidades: Amo aprender coisas novas!! Cinema, música e viagem são minha paixão :heart:
+- :thought_balloon: Curiosidades: Amo aprender coisas novas!! Apaixonada por Cinema, música e viagens :heart:
 
 <h3 align="left">Confira meu Linkedin:</h3>
 <p align="left">
