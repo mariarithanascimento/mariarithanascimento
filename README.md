@@ -13,9 +13,9 @@
 
 ## Principais projetos ☕
 
-- 💕 [Voll Med API: Minha primeira API REST que realiza conexão com o Banco de dados Mysql](https://github.com/mariarithanascimento/med-voll-api)
-- 💰 [Bank Of Marrie: Um sistema simples de banco, que permite aos usuários realizar algumas operações bancárias básicas](https://github.com/mariarithanascimento/bank-of-marrie)
-- 🎥 [Screenmatch: Realiza conexão com a API OMDb e exporta o resultado da pesquisa para JSON](https://github.com/mariarithanascimento/screenmatch-alura)
+- 💕 [Voll Med API:](https://github.com/mariarithanascimento/med-voll-api) Minha primeira API REST que realiza conexão com o Banco de dados Mysql
+- 💰 [Bank Of Marrie:](https://github.com/mariarithanascimento/bank-of-marrie) Um sistema simples de banco, que permite aos usuários realizar algumas operações bancárias básicas
+- 🎥 [Screenmatch:](https://github.com/mariarithanascimento/screenmatch-alura) Realiza conexão com a API OMDb e exporta o resultado da pesquisa para JSON
 
 ## Ferramentas e Tecnologias
 
