@@ -1,7 +1,7 @@
 <h1 align="center">Olá pessoal, sou Maria Ritha :blush: </h1>
 <h3 align="center">Aqui você encontra alguns projetos que já trabalhei ou que estão em andamento.</h3>
 
-- :desktop_computer: Atualmente estou cursando **Sistemas de informação na Estácio**
+- :desktop_computer: Formada em **Sistemas de informação na Estácio**
 - :mortar_board: Formada em **Redes de computadores pelo IFTM-Instituto federal do Triângulo Mineiro**
 - :blue_heart: **Analista de Suporte na NTT Data**
 - :thought_balloon: Curiosidades: Amo aprender coisas novas!! Apaixonada por Cinema, música e viagens :heart:
@@ -16,6 +16,7 @@
 - 💕 [Voll Med API:](https://github.com/mariarithanascimento/med-voll-api) Minha primeira API REST que realiza conexão com o Banco de dados Mysql
 - 💰 [Bank Of Marrie:](https://github.com/mariarithanascimento/bank-of-marrie) Um sistema simples de banco, que permite aos usuários realizar algumas operações bancárias básicas
 - 🎥 [Screenmatch:](https://github.com/mariarithanascimento/screenmatch-alura) Realiza conexão com a API OMDb e exporta o resultado da pesquisa para JSON
+- 📱 [Tela de login em React:](https://github.com/mariarithanascimento/tela-login.git) Tela de login em React Native
 
 ## Ferramentas e Tecnologias
 
