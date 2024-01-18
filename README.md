@@ -1,4 +1,4 @@
-<h1 align="center">Olá pessoal, sou Maria Ritha :blush: </h1>
+<h1 align="center">Olá, sou Maria :blush: </h1>
 <h3 align="center">Aqui você encontra alguns projetos que já trabalhei ou que estão em andamento.</h3>
 
 - 🎓 Formada em **Sistemas de informação na Estácio**
