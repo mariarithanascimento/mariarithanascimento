@@ -4,7 +4,7 @@
 - 🎓 Formada em **Sistemas de informação na Estácio**
 - 🎓 Formada em **Redes de computadores pelo IFTM-Instituto federal do Triângulo Mineiro**
 - 💙 **Analista de Suporte na NTT Data**
-- 💭 Curiosidades: Amo aprender coisas novas!! Apaixonada por Cinema, música e viagens :heart:
+- 💭 Curiosidades: Amo aprender coisas novas!! Apaixonada por cinema, música e viagens :heart:
 
 <h3 align="left">Confira meu Linkedin:</h3>
 <p align="left">
