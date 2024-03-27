@@ -1,10 +1,10 @@
 <h1 align="center">Olá, sou Maria :blush: </h1>
 <h3 align="center">Aqui você encontra alguns projetos que já trabalhei ou que estão em andamento.</h3>
 
-- 🎓 Formada em **Sistemas de informação na Estácio**
-- 🎓 Formada em **Redes de computadores pelo IFTM-Instituto federal do Triângulo Mineiro**
+- 🎓 Graduada em **Sistemas de informação na Estácio**
+- 🎓 Graduada em **Redes de computadores pelo IFTM - Instituto Federal do Triângulo Mineiro**
 - 💙 **Analista de Suporte na NTT Data**
-- 💭 Curiosidades: Amo aprender coisas novas!! Apaixonada por cinema, música e viagens :heart:
+- 💭 Apaixonada por Moda, Arte e Técnologia :heart:
 
 <h3 align="left">Confira meu Linkedin:</h3>
 <p align="left">
