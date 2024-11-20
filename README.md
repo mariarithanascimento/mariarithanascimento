@@ -6,17 +6,17 @@
 </a>  
 
 ### Glad to see you here!  
-Hi, my name is Maria! I am a technology and security enthusiast, dedicated to protecting both individuals and organizations. I hold a degree in Information Systems and a technical certification in Computer Networks. Currently, I am pursuing an MBA in Software Engineering at USP. With 5 years of experience in application support and computer networks, I have built a solid foundation to tackle complex challenges in the cybersecurity field. I am driven by a constant pursuit of knowledge and effective solutions, always focused on improving my skills. My goal is to leverage my expertise and passion for technology to help create a safer and more secure digital environment.  
+Hi, my name is Maria! I am a software engineer and AI enthusiast, passionate about developing innovative solutions to improve lives and empower organizations. I hold a degree in Information Systems and a technical certification in Computer Networks. Currently, I am pursuing an MBA in Software Engineering at USP. With 5 years of experience in application support and computer networks, I have built a solid foundation for tackling complex software and AI challenges. Driven by a relentless pursuit of knowledge and excellence, I focus on enhancing my skills and staying at the forefront of technology. My goal is to leverage my expertise and passion to create intelligent systems that transform the digital landscape and drive meaningful impact. 
 
 <br/>  
 
 ## About me  💭
 <table><tr><td valign="top" width="50%">
 
-- 🌱 I’m currently learning penetration testing techniques and tools like Metasploit, Burp Suite, Nmap and Splunk  
+- 🌱 I’m currently learning AI, Deep Learning and Machine Learning.
   
 
-- ❓ Ask me about anything related to network exploitation, vulnerability scanning, and penetration testing techniques.  
+- ❓ Ask me about anything related to neural networks (ML) and AI.
   
 
 - ⚡ Fun fact: I love watching movies, reading and writing.  
